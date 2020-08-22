@@ -1,9 +1,12 @@
 /*  Created by IntelliJ IDEA.
- *  User: Divyansh Bhardwaj (dbc2201)
+ *  User: Komal Bindal
  *  Date: 22/08/20
- *  Time: 3:07 PM
+ *  Time: 3:12 PM
  *  File Name : Main.java
  * */
 
 public class Main {
+    public static void main(String[] args) {
+
+    }
 }
